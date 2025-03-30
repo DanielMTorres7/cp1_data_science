@@ -1,0 +1,15 @@
+
+Projeto salvo no site abaixo:
+https://resilient-shortbread-19c43d.netlify.app/
+
+Código salvo no repositório abaixo:
+https://github.com/DanielMTorres7/cp1_data_science
+
+Publicado também no Notion:
+https://faithful-industry-226.notion.site/CP-01-data_science_for_engineering-13d7580aaa6a8071a495f35dffbc7193
+
+Todos os graficos gerados pelo código em python, salvos na pasta /cp_1/graphs/
+
+Código salvo no formato .py
+Mas também no formato .ipynb já executado
+
