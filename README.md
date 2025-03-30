@@ -14,13 +14,11 @@
 │   ├── data/              # Dataset files
 │   │   └── games_mental_health.csv
 │   └── proposta/          # Project proposal documents
-│       ├── proposta.pdf
-│       └── apresentacao.pptx
+│       ├── 1SEM-CP1 - Estatística com Python Numpy e Pandas.pdf
 │
 └── html/                  # Web presentation files
     ├── imgs/              # Website images
-    │   ├── banner.jpg
-    │   └── favicon.ico
+    │   └── ... (30+ image files)
     └── index.html         # Main website file
 ```
 
